@@ -4,9 +4,10 @@
 To build an interactive image gallery using HTML, CSS, and JavaScript, where clicking on a thumbnail displays a larger version of the image.
 
 ## Files Included
-- `index.html` – Structure of the gallery
-- `style.css` – Styling for the gallery layout
-- `script.js` – JavaScript for thumbnail click functionality
+- index.html – Structure of the gallery
+- style.css – Styling for the gallery layout
+- script.js – JavaScript for thumbnail click functionality
+- images/ – Folder containing the image assets used in the gallery
 
 ## Experiment Description
 This experiment demonstrates:
@@ -22,6 +23,7 @@ git clone <https://github.com/BolodevGoyary/Frontend-Experiment4>
 - index.html
 - style.css
 - script.js
+- images/ (with 4 images inside)
 3. Open index.html in any web browser (Chrome, Firefox, Edge, etc.).
 4. Click on any thumbnail to display it as the main image.
 
