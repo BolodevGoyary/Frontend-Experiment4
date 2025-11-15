@@ -1,6 +1,6 @@
 # Frontend-Experiment4: Interactive Image Gallery (JavaScript DOM Manipulation)
 
-## Objectiv
+## Objective
 To build an interactive image gallery using HTML, CSS, and JavaScript, where clicking on a thumbnail displays a larger version of the image.
 
 ## Files Included
